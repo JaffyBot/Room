@@ -1,7 +1,7 @@
 # Room
 *The old-school adventure game (built with Python)*
 
-This is a text-based adventure game in Python. 
+**Description**: This is a text-based adventure game in Python. 
 
 **Gameplay**: you play as an adventurer and walk around the rooms while solving puzzles along the way.
 
