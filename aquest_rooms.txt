@@ -1,0 +1,12 @@
+0|Room Name|Description|Adjacent Rooms (N S E W)|Puzzle|Monster|Items|Pictures
+1|Courtyard|A beautiful courtyard with flowers on both sides of the stone walkway. The walkway leads north.|2 0 0 0|None|None|Hair Clippers|courtyard.png
+2|Mansion Entrance|Entrance to an old, musty-smelling mansion. Some people have entered, to never return. The door to the north is open. The courtyard is to your south and a foyer to your north.|3 1 0 0|None|None|Thumb Drive,Mod_2|entrance.png
+3|Foyer|The foyer of the mansion. A staircase leads upstairs but it is delapidated and unusable. That leaves the only exits to the south and east. A strange breeze moves through the room. Eastward is a small room that looks like a library. A teddy bear lies on the floor with its hair shaved|0 2 4 0|None|Teddy Bear|Lamp|foyer.png
+4|Spooky Library|You walked into this eerie library FROM the west. Another room is north. Books now on the floor revealing a secret passage to the East!|6 0 -5 3|Mod_Spooky_Voice|None|Key,Bookshelf|library.png
+5|Hidden Chamber|You've found a hidden chamber! It's a small room that's barely the size of a closet|0 0 0 4|None|None|Algorithms Book,Desk|secret_room.png
+6|Kitchen|This is a spotless kitchen. Pots and pans are hanging from the ceiling. Stainless steel appliances are everywhere. Out of the corner of your eye, you think you see something moving to your west.|0 4 0 7|Darkness|None|None|kitchen.png
+7|Dining Room|A large dining room with a Mahogany wood table. A cute furry rabbit is on the table eating carrots|-9 8 6 0|None|Rabbit|Frying Pan|dining.png
+8|Giant Plate|Uh oh. You're on a giant plate, full of carrots! I think we need to go, NOW!|7 0 0 0|None|None|Carrot|plate.png
+9|Living Room|This is a quiet living room. The dining area is to your south and another room to your east. A file on a thumb drive describes a recursive algorithm. Towers of Hanoi?|0 7 10 0|USB|None|Laptop|livingroom.png
+10|Recursive Study|A study/office room. A fake mirror has been shattered showing an opening to the East|0 0 -11 -9|Recursion|None|None|study.png
+11|HQ|Headquarters. A fairy is waiting here. "Great to see you, my brave adventurer!" she says. "Looks like you've finally found me! I shall grant you with good luck for the rest of your life!"|0 0 10 0|None|None|Mystery Mist of Good Luck,Fairy|hq.png

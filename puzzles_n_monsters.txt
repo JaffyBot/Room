@@ -1,0 +1,8 @@
+METADATA|name|description|active|affects target|solution|target|effect|can attack|attack
+Teddy Bear|A peaceful, cute-looking teddy bear with its hair clipped sits on the floor|T|T|Hair Clippers|Room 3|A monster Teddy Bear growls at you! You cannot get past!|T|hits you with fluffy paws
+Rabbit|Awww. A furry rabbit twitching its nose and eating a carrot. Makes you want to pet him|T|T|Carrot|Room 7|A monster Rabbit moves towards you! He's blocking the way north. I think you might be dinner! (But it seems like you can escape to the south!)|T|licks you with a giant tongue!
+Darkness|Darkness! You cannot see!|T|T|Lamp|Room 6|It's dark! You cannot see anything! Maybe we should go back?|*|*
+Lock|An old wooden desk|T|T|Key|Desk|It's locked! You cannot open it.|*|*
+Recursion|Recursion Puzzle|T|T|Algorithms Book|Room 10|Every time you move, you end up in the same room!|*|*
+Mod_Spooky_Voice|Mod operator|T|T|Mod_2|Room 4|An spooky, eerie library. You walked into this eerie library FROM the west. Another room is north. Books are rustling by themselves on the bookshelf. You hear a voice whisper: "~Find Even Numbers Only~". Yikes. That's creepy. Maybe we should leave?|*|*
+USB|A laptop with a USB port|T|T|Thumb Drive|Room 9|This is a quiet living room. The dining area is to your south and another room to your east. A dimly lit laptop is on a small table in the corner|*|*

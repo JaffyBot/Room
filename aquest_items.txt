@@ -1,0 +1,14 @@
+METADATA|Item Number|Item Name|Description|Weight|Value|Uses use_remaining
+1|Lamp|An old oil lamp with flint|3|100|20
+2|Thumb Drive|A USB thumb drive for computers|0|100|100000
+3|Algorithms Book|A book on computer algorithms, signed by Prof. Keith. The inscription reads: "You'll need this in CS5006/7. Best wishes to you, Aligner!"|2|500|100000
+4|Hair Clippers|Cordless Wahl hair clippers for pets or humans. The battery low light is blinking|2|5|5
+5|Carrot|A carrot. Not just a carrot, but a HUGE carrot! Bigger than you've seen before|5|5|1
+6|Mod_2|A small disk. It has "Computer Science (number mod 2) operator. Use in case of emergencies" inscribed on it|0|500|1000
+7|Desk|An old, unlocked wooden desk with a mess of papers. A note says: "use thumb drive!"|1000|0|100
+8|Mystery Mist of Good Luck|Mist that emits mysterious power which seems to bring human good fortune|1|10000|5
+9|Key|A medium-sized key. Looks like it may unlock a cabinet or desk|0|10|5
+10|Fairy|A small sparkly fairy floating in the air. She smiles at you and gives a thumb's up. "Great job! You have reached the destination of the adventure!"|1000|0|9
+11|Frying Pan|A stainless steel skillet for frying|3|0|10
+12|Laptop|A MacinBackinBookinPro 5000 with all the latest features and a USB slot. It's bolted to the table and can't move|1000|0|5
+13|Bookshelf|A tall black oak bookshelf in the corner of the room. It's much too heavy to move...but there's something weird about it and the books seem to tremble on their own|500|0|20
