@@ -1,5 +1,5 @@
-# Room
-*The old-school adventure game (built with Python)*
+# The Room
+*An old-school adventure game (built in Python)*
 
 **Description**: This is a text-based adventure game in Python. 
 
