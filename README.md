@@ -10,3 +10,7 @@
 **Feature**: Data saving and data reading features are supported. (Yes, you can save and load your game progress!)
 
 **Hint/tip**: During the game, make sure you have an algorithm-related item in the inventory before heading into the "recursion" room - or the adventurer will be forever trapped in a world of recursion.
+
+**Sample Image**
+
+![](Sample_Images/Screenshot.png)
